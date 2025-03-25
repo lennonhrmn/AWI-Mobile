@@ -36,3 +36,10 @@ Le gérant peut gérer sa trésorerie grâce à cette application.
 ## Auteurs
 - **Auteurs** : Ducros Etienne & Herrmann Lennon
 - **Organisation** : Polytech Montpellier
+
+## Informations utilisateurs
+id : admin
+pwd : admin123
+
+id : gerant
+pwd : gerant123
